@@ -1,5 +1,7 @@
 # Credit Risk & Fraud Detection System
 
+live demo-->https://credit-risk-project-1.onrender.com/
+
 A end-to-end Machine Learning web application built with **FastAPI**, **XGBoost / Scikit-Learn**, and a responsive frontend to assess loan applicant credit risk and predict loan default probabilities in real time.
 
 ---
